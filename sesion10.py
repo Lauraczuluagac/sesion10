@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
+
 
 data = pd.read_csv('esterilizacion_caninos_felinos.csv', delimiter=";")
 
